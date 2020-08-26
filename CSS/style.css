@@ -130,6 +130,9 @@ html{
 }
 
 
+.form1, .form2, .form3 {
+	display: inline-block;
+}
 
 .main__forms {
 	margin-top: 20px;
@@ -200,6 +203,10 @@ input[type="number"]::-webkit-inner-spin-button {
     border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
+}
+
+.button1, .button2 {
+	display: inline-block;
 }
 
 .button2 {
